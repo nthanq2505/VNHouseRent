@@ -16,7 +16,7 @@
 ---
 ## 3. Topics for our project
 * **Topics**: **House Rent at Viet Nam (Thành phố Hồ Chí Minh)**
-* **Website**: [House Rent at Viet Nam](https://houserent.streamlit.app/)
+* **Website**: [House Rent at Viet Nam](https://vnhouserent.streamlit.app/)
 * **Dataset:** We collect data from [Kaggle](https://www.kaggle.com/datasets/vanviethieuanh/vietnam-house-rent-dataset?select=hcm.csv)
 * **Tools:** Streamlit and library nessesary for our project (Pandas, Numpy, Matplotlib, Seaborn, Sklearn, ...).
 * **Team management:** We will use [Trello](https://trello.com/b/7TX7mOtb/programming-for-data-science) to manage our project.
