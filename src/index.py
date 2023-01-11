@@ -51,11 +51,3 @@ with tab2:
     st.write('Even I love it 🤤')
   if disagree:
     st.write('You are boring 😒')
-
-
-st.header('Line chart by geographies')
-line_fig = px.line(avocado[avocado['geography'] == 'Los Angeles'],
-                   x='date', y='average_price',
-                   color='type',
-                   title='Avocado Prices in Los Angeles')
-st.plotly_chart(line_fig)
