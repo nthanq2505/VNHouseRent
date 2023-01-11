@@ -1,6 +1,9 @@
 import streamlit as st
+import pandas as pd
 
 from components import question_item
+
+df_house_rent = pd.read_csv('./data/HCMHouseRentPreprocessing.csv')
 
 def app():
    st.title("Asking meaningful questions that need to be answered")
@@ -10,7 +13,7 @@ def app():
    )
    
    if option == 'Question 1':
-      question_item.question_one()
+      question_item.question_one(df_house_rent)
    elif option == 'Question 2':
       question_item.question_two()
    elif option == 'Question 3':
