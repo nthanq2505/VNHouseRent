@@ -1,8 +1,2 @@
 [server]
-port = 3000
-
-[theme]
-base = "dark"
-
-[browser]
-serverAddress = "localhost"
+port = 8080
