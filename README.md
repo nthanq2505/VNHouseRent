@@ -11,7 +11,7 @@
 |    1     | 20127458 | Đặng Tiến Đạt         | dangtiendat1135@gmail.com  | **25%**           |
 |    2     | 20127627 | Nguyễn Quốc Thắng     | nqthang2505@gmail.com      | **25%**           |
 |    3     | 20127680 | Phạm Thị Ánh Phát     | phatpham0406202@gmail.com  | **25%**           |
-|   4      | 20127084 | Nguyễn Ngọc Bảo Trâm  |                            | **25%**           |
+|    4     | 20127084 | Nguyễn Ngọc Bảo Trâm  | nguyentramzoey@gmail.com   | **25%**           |
 
 ---
 ## 3. Topics for our project
