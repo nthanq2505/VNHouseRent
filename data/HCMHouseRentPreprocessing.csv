@@ -364,7 +364,6 @@ id,title,price,published,acreage,street,ward,district
 383,"PHÒNG TRỌ LẦU 3 - CHÍNH CHỦ, RIÊNG BIỆT, PHÚ NHUẬN",3600000,2022-04-25,20.0,23/4 Đường Trần Khắc Chân,Phường 15,Quận Phú Nhuận
 384,"Cho thuê chung cư riêng! Giá rẻ tại 86 Trần Huy Liệu, Phường 15, Quận Phú Nhuận",3500000,2022-05-10,25.0,86 Trần Huy Liệu,Phường 15,Quận Phú Nhuận
 385,NHÀ TRỌ PHÚ NHUẬN - 1 gác - 1 toilet,5000000,2022-08-03,20.0,269 Đường Phan Đình Phùng,Phường 15,Quận Phú Nhuận
-386,Cho thuê nhà riêng chung cư ! Giá rẻ ! Chị phí sinh hoạt thấp!,-1000000,2022-05-05,25.0,86 Đường Trần Huy Liệu,Phường 15,Quận Phú Nhuận
 387,"PHÒNG ĐẦY ĐỦ TIỆN NGHI MỚI 100% NGAY NGÃ TƯ PHÚ NHUẬN, MẶT TIỀN HVT 5.5tr - 35M2",5500000,2019-08-15,25.0,31 Đường Hoàng Văn Thụ,Phường 15,Quận Phú Nhuận
 388,"CHO THUÊ PHÒNG ĐĐTN CÓ CỬA SỔ, BANCÔNG, BẾP NẤU ĂN Ở CẦU KIỆU, SÁT Q.1",4800000,2019-08-06,22.0,Đường Phan Đình Phùng,Phường 15,Quận Phú Nhuận
 389,Nhà trọ Phú Nhuận cho gia đình trẻ,5000000,2019-05-24,35.0,Đường Huỳnh Văn Bánh,Phường 15,Quận Phú Nhuận
@@ -540,7 +539,6 @@ id,title,price,published,acreage,street,ward,district
 570,"Cần cho thuê phòng trọ mới xây, lối đi riêng",1500000,2016-12-13,21.0,Huỳnh Tấn Phát,Thị trấn Nhà Bè,Huyện Nhà Bè
 572,Cho thuê phòng trọ - Liên hệ Anh Ngân 0906802180,1500000,2016-10-03,20.0,46/1 Huỳnh Tấn Phát,Thị trấn Nhà Bè,Huyện Nhà Bè
 573,"Cho thuê phòng trọ đẹp giá rẻ tại đường Huỳnh Tấn Phát, Nhà bè",1700000,2017-10-22,30.0,Số 1806/105/2a Đường Huỳnh Tấn Phát,Thị trấn Nhà Bè,Huyện Nhà Bè
-574,KTX MÁY LẠNH GIÁ RẺ TẠI Q7,400000,2017-07-17,50.0,Lê Văn Lương,Thị trấn Nhà Bè,Huyện Nhà Bè
 575,"Cho thuê phòng trọ full nội thất, toilet riêng, 1.600.000",1600000,2017-11-16,20.0,1979/5 Đường Huỳnh Tấn Phát,Thị trấn Nhà Bè,Huyện Nhà Bè
 576,"CHO THUÊ PHÒNG TRỌ MỚI ĐẸP, GIÁ RẺ",900000,2016-10-01,25.0,411/9 Đào Sư Tích,Thị trấn Nhà Bè,Huyện Nhà Bè
 577,"PHÒNG MỚI SẠCH SẼ, YÊN TĨNH",2500000,2017-11-06,15.0,Đường Huỳnh Tấn Phát,Thị trấn Nhà Bè,Huyện Nhà Bè
@@ -564,7 +562,6 @@ id,title,price,published,acreage,street,ward,district
 596,Cho thuê 4 phòng trong nhà 3 tầng sạch đẹp thoáng mát,2500000,2019-11-05,19.0,Hẻm 76 Đường Dương Cát Lợi,Thị trấn Nhà Bè,Huyện Nhà Bè
 597,Cho thuê phòng trọ giá rẻ khu biệt thự lavila kiến á nhà bè,2500000,2022-05-18,10.0,Lavila kiến Á số 52 đường số 7 Đường Nguyễn Hữu Thọ,Xã Phước Kiển,Huyện Nhà Bè
 598,"Phòng Trọ Xây Mới Ngay Quận 7, Đường Huỳnh Tấn Phát",3800000,2019-11-06,20.0,1663 Đường Huỳnh Tấn Phát,Thị trấn Nhà Bè,Huyện Nhà Bè
-599,CHO THUÊ NHÀ TRỌ HUYỆN NHÀ BÈ (BÌNH),-1000000,2020-05-20,0.0,Đường Huỳnh Tấn Phát,Thị trấn Nhà Bè,Huyện Nhà Bè
 600,"Phòng master CC HAGL3 ( New Sài Gòn ) Gần ĐH RMIT, Tôn Đức Thắng",4300000,2022-04-02,20.0,Nguyễn Hữu Thọ,Xã Phước Kiển,Huyện Nhà Bè
 601,PHÒNG TRỌ CAO CẤP THỊ TRẤN NHÀ BÈ,1800000,2020-05-27,25.0,2389 Đường Huỳnh Tấn Phát,Thị trấn Nhà Bè,Huyện Nhà Bè
 602,"Phòng trọ 2tr-2tr8/tháng, đầy đủ nội thất, giờ giấc tự do không chung chủ, có hỗ trợ mùa dịch",2300000,2022-01-09,20.0,1979/5/52 Huỳnh Tấn Phát,Thị trấn Nhà Bè,Huyện Nhà Bè
@@ -625,7 +622,6 @@ id,title,price,published,acreage,street,ward,district
 664,"Cho thuê phòng trọ nhà riêng lẻ diện tích 14m2 ( ở được 2 đến 3 người ) 1tr8/tháng trên đường Đào Tông Nguyên, Nhà Bè",1800000,2022-03-09,14.0,28/14/24/13 Đường Đào Tông Nguyên,Xã Phú Xuân,Huyện Nhà Bè
 665,"Phòng trọ 2tr-2tr8/tháng, đầy đủ nội thất, giờ giấc tự do không chung chủ, có hỗ trợ mùa dịch",2300000,2021-12-28,20.0,1979/5/52 Huỳnh Tấn Phát,Xã Phú Xuân,Huyện Nhà Bè
 668,Cho thuê phòng trọ hẻm 1697 Lê Văn Lương - Nhà Bè,1200000,2016-08-24,13.0,Lê Văn Lương,Xã Nhơn Đức,Huyện Nhà Bè
-669,Cho thuê nhà trọ gác suốt tại Nhà Bè - LH: 0914282040,-1000000,2016-08-23,16.0,Lê Văn Lương,Xã Nhơn Đức,Huyện Nhà Bè
 670,"Cho thuê phòng trọ nằm mặt tiền đường Lê Văn Lương, qua cầu Rạch Tôm 20m",1400000,2018-04-06,24.0,Lê Văn Lương,Xã Nhơn Đức,Huyện Nhà Bè
 671,"Phòng Trọ Giá 1,5tr - 1,7tr/tháng, Giờ Giấc Tự Do, Không Chung Chủ ở Lê Văn Lương, Nhà Bè",1500000,2022-02-10,15.0,1664 Lê Văn Lương,Xã Nhơn Đức,Huyện Nhà Bè
 672,"Cho thuê phòng trọ giá 1.5tr/tháng, giờ giấc thoải mái",1500000,2021-06-04,13.0,1664 Lê Văn Lương,Xã Nhơn Đức,Huyện Nhà Bè
@@ -676,7 +672,6 @@ id,title,price,published,acreage,street,ward,district
 718,"Phòng cao cấp mới đầy đủ nội thất ngay Tên Lửa, Tỉnh lộ 10",3000000,2022-07-10,22.0,933/4/10 Tỉnh Lộ 10,Phường Tân Tạo,Quận Bình Tân
 719,Cho thuê phòng trọ GIÁ RẺ khu Lữ Gia,2200000,2021-12-21,15.0,46 Hẻm 281 Lý Thường Kiệt,Phường 15,Quận 11
 720,"Phòng Duplex Xịn Xò Y Hình, Đối diện ĐH Bách Khoa, Lý Thường Kiệt",5000000,2022-03-11,20.0,281 Phố Lý Thường Kiệt,Phường 15,Quận 11
-721,Phòng KTX 450k/tháng cho sinh viên và người lao động - Quận 11,450000,2021-12-24,30.0,299/23F Phố Lý Thường Kiệt,Phường 15,Quận 11
 722,"Phòng gác lửng cho thuê giá tốt, sạch sẽ thoáng mát gần ngay BV Trưng Vương Quận 10",4500000,2021-12-23,28.0,1 Cư xá Lữ Gia,Phường 15,Quận 11
 723,"Phòng Y Hình, Có Ban Công, tại 48 Lý Thường Kiệt, phường 15, Q11 Gần ĐH Bách Khoa",5000000,2022-03-10,25.0,48 Lý Thường Kiệt,Phường 15,Quận 11
 724,"Gác Xinh, Giá Ưu Đãi, Tiện Nghi, Lý Thường Kiệt, Q11, Ngay ĐH Bách Khoa",4500000,2022-01-06,25.0,281/50 Phố Lý Thường Kiệt,Phường 15,Quận 11
@@ -724,7 +719,6 @@ id,title,price,published,acreage,street,ward,district
 767,"Phòng trọ 78/38 Đường Khánh Hội, Phường 4, Quận 4, rộng 25m2",4000000,2021-07-03,25.0,78/38 Đường Khánh Hội,Phường 4,Quận 4
 768,"Phòng trọ quận 5 giá 5tr00 full nội thất, free phụ phí.",5500000,2021-06-17,20.0,334 Đường Tôn Đản,Phường 4,Quận 4
 769,"Studio nội thất đầy đủ tại 330 Đường Tôn Đản, Phường 4, Quận 4. Lh tư vấn chi tiết 0909611835",6500000,2021-08-14,25.0,330 Đường Tôn Đản,Phường 4,Quận 4
-770,"Cho thuê phòng Quận 4, Đường Hoàng Diệu, đối diện chung cư H2",-1000000,2016-03-26,36.0,Hoàng Diệu,Phường 8,Quận 4
 771,"Cho thuê phòng Full nội thất, ngay Khánh Hội, Q.4. Liên hệ Anh Tùng chính chủ",4500000,2020-05-27,18.0,78/51 Đường Khánh Hội,Phường 4,Quận 4
 772,"Cho thuê 1 phòng Full nội thất tại 78/51 Khánh Hội, P.4, Q.4 ngay chân cầu Kênh Tẻ. Giá 4.5tr/th",4500000,2020-06-04,17.0,78/51 Đường Khánh Hội,Phường 4,Quận 4
 773,Cho thuê phòng trọ mới xây sắp hoàn thiện,3000000,2020-06-29,12.0,243/46/7 Đường Hoàng Diệu,Phường 4,Quận 4
@@ -776,7 +770,6 @@ id,title,price,published,acreage,street,ward,district
 826,"PHÒNG YÊN TĨNH - 15 M2 - 2,1 TR/PHÒNG - AN NINH - Q.4 - CÁCH ĐH LUẬT, ĐH NGUYỄN TẤT THÀNH 200M",2100000,2017-06-28,15.0,266/40/52 Tôn Đản,Phường 8,Quận 4
 827,Tìm nữ ở ghép phòng trọ Quận 4,3800000,2016-09-16,40.0,Tôn Đản,Phường 8,Quận 4
 828,Cho thuê phòng trọ cao cấp đẹp quận 4,5000000,2017-07-25,30.0,7 Vĩnh Khánh,Phường 8,Quận 4
-829,"Cho thuê 2 phòng trọ Tôn Đản, Phường 8, Quận 4, Hồ Chí Minh",-1000000,2016-12-01,30.0,Tôn Đản,Phường 8,Quận 4
 830,"Cho thuê phòng trọ giá rẻ , đẹp , sạch quận 4",5000000,2017-07-25,30.0,Vĩnh Khánh,Phường 8,Quận 4
 831,CHO THUÊ PHÒNG TRỌ CAO CẤP QUẬN 4 ( ^ - ^ ) !,5000000,2017-07-25,30.0,7 Vĩnh Khánh,Phường 8,Quận 4
 832,"Cho thuê lầu 2 nhà hẻm Tôn Đản, Quận 4, Tp.HCM",2000000,2017-07-27,16.0,Tôn Đản,Phường 8,Quận 4
@@ -967,7 +960,6 @@ id,title,price,published,acreage,street,ward,district
 1038,"Phòng trọ mặt tiền đường nội thất cơ bản đầy đủ tại Hải Thượng Lãn Ông, Phường 10, Quận 5, Giá chỉ từ 2.5 Triệu/tháng",2500000,2022-02-25,18.0,Hải Thượng Lãn Ông,Phường 10,Quận 5
 1039,"Phòng mặt tiền Trần Hưng Đạo, ở 3-4 người, cạnh Đại học Y Dược",4800000,2022-07-27,35.0,Đường Trần Hưng Đạo,Phường 10,Quận 5
 1040,"Cho Thuê Phòng Đẹp Ngay Đường Võ Văn Kiệt, View Sông - Q.5, Gần Cầu Nguyễn Tri Phương, Giờ Giấc Tự Do.",5500000,2022-07-03,30.0,1188 Đường Võ Văn Kiệt,Phường 10,Quận 5
-1041,"Căn hộ mini nội thất cao cấp, dọn vào ở luôn nằm ngay cầu Chà Và, giá từ 4tr2 đến 5tr5",-1000000,2017-01-04,35.0,1362 Võ Văn Kiệt,Phường 13,Quận 5
 1042,"Cần cho thuê căn hộ mini lầu 6 dt 35m2, 1362 Võ Văn Kiệt, ngay trung tâm Q.5",6000000,2018-08-27,35.0,1362 Võ Văn Kiệt,Phường 13,Quận 5
 1043,"Cho thuê phòng trọ tại Quận 5, đường Võ Văn Kiệt. Giá chỉ từ 3tr7",3700000,2018-12-17,20.0,Đường Võ Văn Kiệt,Phường 13,Quận 5
 1044,"Phòng full nội thất ngay trung tâm Q.5, dt 25m2 siêu đẹp",4500000,2018-05-30,25.0,1362 Đường Võ Văn Kiệt,Phường 13,Quận 5
@@ -1008,10 +1000,8 @@ id,title,price,published,acreage,street,ward,district
 1079,"Cho thuê phòng trọ tiện nghi- tại Phan Văn Trị, P.4, Q.5",4000000,2016-06-15,18.0,Phan Văn Trị,Phường 7,Quận 5
 1080,Cho thuê phòng trọ ngay trung tâm Quận 5,3200000,2016-06-27,14.0,Trần Hưng Đạo,Phường 7,Quận 5
 1081,Cho thuê lại phòng trọ trung tâm Quận 5. Giá 3triệu (có giảm). Điện nước theo hoá đơn nhà nước,2700000,2016-05-18,12.0,93/4 Huỳnh Mẫn Đạt,Phường 7,Quận 5
-1082,"Cho nữ thuê phòng trọ 117/3 Huỳnh Mẫn Đạt, P.7, Q.5, ngay giao lộ với đường Nguyễn Trãi",-1000000,2016-12-14,30.0,117/3 Huỳnh Mẫn Đạt,Phường 7,Quận 5
 1083,"Cho thuê phòng trọ tiện nghi tại 434 Phan Văn Trị, P7, Q5",5500000,2016-06-10,22.0,Phan Văn Trị,Phường 7,Quận 5
 1084,"Cho thuê phòng trọ Quận 5, giá rẻ cho sinh viên",2000000,2016-06-07,22.0,519 Phan Văn Trị,Phường 7,Quận 5
-1085,PHÒNG TRỌ QUẬN 5 - SẠCH SẼ - THUẬN TIỆN,-1000000,2016-08-25,12.0,529 Phan Văn Trị,Phường 7,Quận 5
 1086,"Phòng cho thuê ngay trung tâm Q5, TPHCM",1000000,2018-06-09,23.0,Đường Trần Phú,Phường 7,Quận 5
 1087,"Cho thuê phòng ngay trung tâm Quận 5, Giá thuê 3,5tr",3000000,2017-10-31,15.0,Đường Bùi Hữu Nghĩa,Phường 7,Quận 5
 1088,Cho thuê lại phòng trọ trung tâm Quận 5. Giá 2.8triệu,2800000,2017-06-20,12.0,93/4 Huỳnh Mẫn Đạt,Phường 7,Quận 5
@@ -1070,7 +1060,6 @@ id,title,price,published,acreage,street,ward,district
 1146,Phòng trọ đầy đủ tiện nghi an ninh sạch sẽ giá 3 triệu,3000000,2019-11-04,30.0,279 Đường Tôn Thất Thuyết,Phường 3,Quận 4
 1147,"PHÒNG ĐẸP - 20M2 NGAY CHỢ TÔN THẤT THUYẾT, QUẬN 4",5500000,2020-02-18,20.0,273 Bis Đường Tôn Thất Thuyết,Phường 3,Quận 4
 1148,"CĂN HỘ MINI SANG TRỌNG, CÓ BẾP MINI GIA ĐÌNH, NGAY NGUYỄN HỮU HÀO, Q.4",5500000,2016-08-27,32.0,129F/138/38 Bến Vân Đồn,Phường 6,Quận 4
-1149,"Cho nữ thuê phòng, an ninh và sạch sẽ tại Quận 4",-1000000,2016-10-14,25.0,111 Tân Vĩnh,Phường 6,Quận 4
 1150,Cho thuê phòng đối diện bến xe bus,2700000,2020-06-23,15.0,Đường Tôn Thất Thuyết,Phường 3,Quận 4
 1151,"Phòng cho thuê Quận 4 An ninh tiện nghi yên tĩnh. Giá thuê phòng từ 2,9 triệu đến 3,5 triệu",2900000,2020-07-07,14.0,277/4B Đường Tôn Thất Thuyết,Phường 3,Quận 4
 1152,Phòng trọ sinh viên ở gần các trường đại học,3000000,2016-10-26,90.0,170/288 Bến Vân Đồn,Phường 6,Quận 4
@@ -1143,10 +1132,8 @@ id,title,price,published,acreage,street,ward,district
 1223,Phòng 40m2 có ban công cửa sổ. Tôn Thất Thuyết. Q4,4500000,2022-07-14,40.0,209/8 Tôn Thất Thuyết,Phường 3,Quận 4
 1224,"Cho thuê phòng trọ 243/38 Tôn Thất Thuyết, P3, Quận 4",2200000,2022-07-22,12.0,243/38 Đường Tôn Thất Thuyết,Phường 3,Quận 4
 1225,"CHO THUÊ PHÒNG TRỌ MẶT TIỀN QUẬN 4, SẠCH SẼ, TIỆN ĐI LẠI Q.1, Q.5, Q.7",1000000,2016-03-10,16.0,320/9 TÔN THẤT THUYẾT,Phường 1,Quận 4
-1226,"2 phòng cho thuê Bến Vân Đồn, Q.4 chung cư Khánh Hội",3500000,2016-05-20,0.0,360A Bến Vân Đồn,Phường 1,Quận 4
 1229,PHÒNG CAO CẤP ĐẦY ĐỦ TIỆN NGHI NGAY SÁT QUẬN 1 CHO THUÊ,9000000,2016-10-05,35.0,80 Bến Vân Đồn,Phường 1,Quận 4
 1231,cho thuê phòng trọ/ văn phòng mặt tiền Bến Vân Đồn,2500000,2016-04-12,16.0,Bến Vân Đồn,Phường 1,Quận 4
-1232,"Cho thuê phòng quận 4. Vị trí thuận lợi, sạch sẽ thoáng mát",-1000000,2016-10-20,15.0,Bến Vân Đồn,Phường 1,Quận 4
 1233,Cho thuê phòng studio CC Tôn Thất Thuyết tuyệt đẹp,5000000,2018-02-28,25.0,01 Đường Tôn Thất Thuyết,Phường 1,Quận 4
 1234,"Cho thuê phòng Quận 4, 25m2 giờ giấc tự do",4500000,2017-05-05,25.0,Tôn Thất Thuyết,Phường 1,Quận 4
 1235,"Q.4, NGAY CẦU KÊNH TẺ-TÔN THẤT THUYẾT, LÂU DÀI, ỔN ĐỊNH, ĐỦ NỘI THẤT, Ở GHÉP HOẶC NGUYÊN PHÒNG: 1TR5/NGƯỜI",1500000,2016-11-04,180.0,Tôn Thất Thuyết,Phường 1,Quận 4
@@ -1162,7 +1149,6 @@ id,title,price,published,acreage,street,ward,district
 1246,Cho thuê phòng chung cư Khánh Hội 1,4400000,2020-04-17,20.0,Đường Bến Vân Đồn,Phường 1,Quận 4
 1247,Share lại 1 phòng trong chung cư,6500000,2019-09-27,20.0,Chung cư tôn thất thuyết Đường Nguyễn Khoái,Phường 1,Quận 4
 1248,CẦN TÌM 1 BẠN NỮ SHARE PHÒNG,1000000,2017-06-28,20.0,Nguyễn Khoái,Phường 2,Quận 4
-1249,"Ở ghép kiểu gia đình cho nữ, đường Bến Vân Đồn, giáp Q.1",-1000000,2016-10-29,126.0,Bến Vân Đồn,Phường 2,Quận 4
 1250,"Phòng cho thuê tại Quận 4 gần trung tâm TP, trường học, bệnh viện, thuận tiện đi lại",7000000,2017-11-27,40.0,Đường Vân Đồn,Phường 2,Quận 4
 1251,"Phòng trọ cho nữ an ninh, sạch sẽ, giá cả phải chăng.",2000000,2017-12-24,20.0,144/46/5 Đường Nguyễn Khoái,Phường 2,Quận 4
 1252,"Phòng cao cấp quận 4 cho thuê đầy đủ tiện nghi, giờ giấc tự do, bv 24/24. Giá từ 4tr (ngay cầu Nguyễn Văn Cừ)",5000000,2018-03-22,25.0,99 Đường Bến Vân Đồn,Phường 2,Quận 4
@@ -1178,7 +1164,6 @@ id,title,price,published,acreage,street,ward,district
 1262,Nhà/ phòng trung tâm quận 4 (giá tốt) phòng mới xây xong,3000000,2020-12-02,32.0,51 Đường số 42,Phường 1,Quận 4
 1263,"PHÒNG TRỌ NỮ SẠCH SẼ, AN NINH, GIÁ PHẢI CHĂNG",2200000,2019-05-27,20.0,Đường Nguyễn Khoái,Phường 2,Quận 4
 1264,"Cho Thuê Phòng Trọ Giá Rẻ Có Chỗ Nấu Ăn, Để Xe",1600000,2022-07-29,9.0,331/4 Đường Tôn Thất Thuyết,Phường 1,Quận 4
-1265,"Cho thuê phòng trọ 455 Nguyễn Chí Thanh, Quận 5",-1000000,2017-02-17,20.0,Nguyễn Chí Thanh,Phường 15,Quận 5
 1267,"Phòng trọ tại Nguyễn Khoái, Phường 1, Quận 4 Giá Rẻ. Các bạn có nhu cầu vui lòng liên hệ 0907388026",1600000,2021-12-29,12.0,Đường Nguyễn Khoái,Phường 1,Quận 4
 1268,"Phòng nhà đúc 36m2, có ML gần ĐHYD, BV Chợ Rẫy, T.Kiều plaza, Pakson Hùng Vương",3900000,2016-10-18,36.0,Hồng Bàng,Phường 15,Quận 5
 1269,"Cho thuê phòng, sinh hoạt chung chủ tại chung cư 13 Nguyễn Khoái",1400000,2022-04-10,80.0,13 Đường Nguyễn Khoái,Phường 1,Quận 4
@@ -1301,8 +1286,6 @@ id,title,price,published,acreage,street,ward,district
 1391,Phòng nhỏ có Máy Lạnh ngay cầu Calmette,3000000,2019-04-19,16.0,Đường Đoàn Văn Bơ,Phường 9,Quận 4
 1392,"Phòng mới xây có ban công, đầy đủ tiện nghi an ninh",5300000,2019-05-10,30.0,237/8 Đường Hoàng Diệu,Phường 9,Quận 4
 1393,"CHO THUÊ 01 PHÒNG TRỌ ĐƯỜNG 199 HOÀNG DIỆU, QUẬN 4",2200000,2019-08-15,10.0,545 Lô R Đường Đoàn Văn Bơ,Phường 9,Quận 4
-1394,Cho thuê phòng trọ Quận 4 gần trường Nguyễn Tất Thành,-1000000,2016-10-04,20.0,322/12/12 Nguyễn Tất Thành,Phường 13,Quận 4
-1395,Cho thuê phòng trọ Quận 4 gần Trường Nguyễn Tất Thành và Đại học Luật,-1000000,2016-10-11,20.0,322/12/12 Nguyễn Tất Thành,Phường 13,Quận 4
 1398,"Phòng trọ tại 103 Nguyễn Tất Thành, P.13, Q.4. Giá từ 500k đến 2tr5",2100000,2017-07-06,23.0,103 Nguyễn Tất Thành,Phường 13,Quận 4
 1399,"Cho thuê phòng trọ sạch đẹp, an ninh, đường Tôn Đản",1500000,2016-06-12,15.0,Tôn Đản,Phường 10,Quận 4
 1400,"Cho thuê tầng trệt nhà Q.4, đẹp, an ninh, 11mx4.2m, bếp, wc riêng. Gía 3.6tr",3600000,2016-04-16,37.0,122/19/5 Tôn Đản,Phường 10,Quận 4
@@ -1387,7 +1370,6 @@ id,title,price,published,acreage,street,ward,district
 1482,"Cho thuê phòng trọ sạch đẹp có cửa sổ mát mẽ giá từ 2 Triệu đến 2.5 Triệu tại 100 Tôn Thất Thuyết, Quận 4",2000000,2022-04-12,16.0,100 Đường Tôn Thất Thuyết,Phường 15,Quận 4
 1483,"Còn Phòng 1tr6- 2tr5- 3tr- 3tr3 - 4tr cho thuê . cửa sổ và BALCONY -Gần Đại học Nguyễn Tất Thành, Đại học Luật,",3000000,2022-01-10,30.0,124 Đường Xóm Chiếu,Phường 15,Quận 4
 1484,Ế quá nên giảm giá cực sốc -Thuê lúc này tiết kiệm lắm luôn ạ - Giá chỉ từ 2.500 ---3.000 -,2500000,2021-12-07,24.0,235/6 Đường Xóm Chiếu,Phường 15,Quận 4
-1485,"Phòng trọ 1,5 triệu đến 2,5 triệu, Quận 4",-1000000,2016-06-25,10.0,Tôn Đản,Phường 15,Quận 4
 1486,"Nhà mới, cho thuê phòng lầu 2, sạch sẽ tiện nghi",2200000,2018-01-10,11.0,171/10 Tôn Đản,Phường 15,Quận 4
 1487,"Phòng trọ mới xây ở Quận 4, giá 2.500.000 đ/tháng và 2.000.000đ/Tháng",2500000,2017-07-02,17.0,175 Tôn Đản,Phường 15,Quận 4
 1488,"CHO THUÊ PHÒNG TRỌ QUẬN 4, GIÁ 2.5TR - LH: 0169 6684 306",2500000,2018-06-18,13.0,Đường Tôn Đản,Phường 15,Quận 4
@@ -1661,7 +1643,6 @@ id,title,price,published,acreage,street,ward,district
 1766,"Phòng trọ QUẬN BÌNH TÂN, CHỢ BÀ HOM MỚI mới xây, sạch sẽ, thoáng mát, ban công rộng rãi",2500000,2022-05-24,30.0,Đường số 5,Phường Tân Tạo A,Quận Bình Tân
 1767,"Cho thuê phòng trọ mới xây, đẹp, thoáng mát, sạch sẽ tại Bình Tân",1800000,2022-07-18,20.0,31/21/42 Đường số 1,Phường Tân Tạo A,Quận Bình Tân
 1768,"Cho thuê phòng trong biệt tự cao cấp tại Khu dân cư Khang An đg Trần Đại Nghĩa, Phường Tân Tạo A, Bình Tân",1500000,2022-07-12,20.0,Khu dân cư Khang An Phố Trần Đại Nghĩa,Phường Tân Tạo A,Quận Bình Tân
-1769,"PHÒNG CHO THUÊ (ĐỐI TƯỢNG SINH VIÊN, HỌC SINH)",-1000000,2016-02-23,8.0,số 30 Lương Ngọc Quyến,phường 13,Quận 8
 1770,Phòng Trọ Quận 6 - Gần Công viên Phú Lâm,1500000,2021-03-02,14.0,344 Đường Chợ Lớn,Phường 11,Quận 6
 1771,Phòng Q.6 đầy đủ tiện nghi dọn vào ở ngay cho bạn nào thích ổn định,3000000,2016-12-10,20.0,751/40H/31 Hồng Bàng,Phường 6,Quận 6
 1772,"Phòng trọ quận 6, giá chỉ 3tr2, phòng rộng cửa sổ thoáng, mới khai trương, ở 4 người",3200000,2021-03-30,25.0,Đường Nguyễn Văn Luông,Phường 11,Quận 6
@@ -1732,7 +1713,6 @@ id,title,price,published,acreage,street,ward,district
 1847,"Cho thuê phòng trọ tại 68/27 Liên Tỉnh 5 P6 Quận 8, Gần Cầu Nhị Thiên Đường",1300000,2022-01-17,13.0,68/27 Đường Liên Tỉnh 5,Phường 6,Quận 8
 1848,Cho thuê phòng trọ cao cấp full nội thất xây mới 100%,3000000,2022-03-11,25.0,1953 Đường Phạm Thế Hiển,Phường 6,Quận 8
 1849,JinJoo Home TARA PHÒNG ĐẸP GIÁ TỐT,4300000,2022-04-28,25.0,Phố Tạ Quang Bửu,Phường 6,Quận 8
-1850,"Phòng trọ hỗ trợ sinh viên nữ khó khăn về nơi ở. Tại Đường Quốc Lộ 50, Phường 6, Quận 8",1000,2022-03-24,20.0,Đường Quốc Lộ 50,Phường 6,Quận 8
 1851,"Phòng trọ 4x5m, có máy lạnh, mới sạch",4000000,2022-06-19,32.0,929 Phố Tạ Quang Bửu,Phường 6,Quận 8
 1852,"Nhà trọ giá chỉ 2 Triệu/tháng tại 17 Đường số 2, Phường 6, Quận 8 ngay bến xe quận 8",2000000,2022-03-17,18.0,17 Đường số 2,Phường 6,Quận 8
 1853,"Cho thuê phòng trọ mới xây tại 341 Bùi Minh Trực, Phường 6, Quận 8",2300000,2022-07-11,20.0,341 Bùi Minh Trực,Phường 6,Quận 8
@@ -1820,14 +1800,9 @@ id,title,price,published,acreage,street,ward,district
 1941,"cho thuê phòng trọ, ưu tiên sinh viên",3000000,2022-04-07,20.0,121/16 Hưng Phú,Phường 8,Quận 8
 1942,Cho thuê phòng trọ quận 8 ưu tiên sinh viên,2000000,2021-11-05,16.0,121/16 Đường Hưng Phú,Phường 8,Quận 8
 1943,"Cho thuê phòng trọ Quận 8 gần cầu chữ Y. Phòng 16m2 giá thuê 2,6 Triệu/Tháng",2600000,2022-03-02,16.0,231 Đường Ba Đình,Phường 8,Quận 8
-1944,Cho thuê phòng Quận 8 gần cầu Nguyễn Tri Phương,-1000000,2016-06-05,25.0,Hưng Phú,Phường 8,Quận 8
-1945,Cho thuê phòng và tìm nguời ở ghép Quận 8 gần cầu chữ y và nguyễn tri phương,-1000000,2016-05-09,25.0,Hưng Phú,Phường 8,Quận 8
 1946,"Cho thuê phòng trọ 206 Hưng Phú, Quận 8",100000000,2016-09-28,25.0,Hưng Phú,Phường 8,Quận 8
-1947,"Cho nữ thuê phòng 16m2(4x4) gần nhà văn hoá Quận 8, gần chợ, cách Quận 5 khoản 2km",-1000000,2015-12-14,16.0,144/11 C1 Hưng Phú,Phường 8,Quận 8
-1948,"Cho thuê phòng 206 Hưng Phú, P.8, Quận 8",-1000000,2016-10-15,25.0,Hưng Phú,Phường 8,Quận 8
 1950,"cho nữ thuê, khu nhà trọ ít người, chân cầu chánh hưng",2500000,2016-06-04,20.0,Phạm Thế Hiển,Phường 8,Quận 8
 1951,"Phòng mới xây cho thuê giá tốt, khu vực P.8, Q.8",3500000,2016-09-25,40.0,325/4 Ba Đình,Phường 8,Quận 8
-1952,"Cho thuê phòng ngay cầu chữ Y giáp Quận 1, Quận 5, Quận 10",-1000000,2017-05-03,25.0,Hưng Phú,Phường 8,Quận 8
 1953,"Cho thuê phòng 206 Hưng Phú, Quận 8 ngay cầu chữ Y",2800000,2016-12-08,25.0,Hưng Phú,Phường 8,Quận 8
 1954,Chính chủ cho thuê phòng đẹp hướng sông Quận 8,3500000,2016-10-31,18.0,221B Ba Đình,Phường 8,Quận 8
 1955,"Cho thuê phòng ngay cầu chữ Y, Quân 8",2800000,2016-11-07,25.0,Hưng Phú,Phường 8,Quận 8
@@ -1894,8 +1869,6 @@ id,title,price,published,acreage,street,ward,district
 2021,KÍ TÚC XÁ NỮ CAO CẤP GIÁ CHỈ 1tr6,1600000,2020-11-19,1000.0,491 Đường Hậu Giang,Phường 6,Quận 6
 2022,"Mới Xây Full Nội Thất Ngay Hồng Bàng - Phạm Đình Hổ, Q6 giao Q5",3800000,2022-05-16,22.0,Đường Hồng Bàng,Phường 6,Quận 6
 2023,Cho thuê phòng có gác Mai Xuân Thưởng Q6,2400000,2022-07-07,25.0,Mai Xuân Thưởng,Phường 6,Quận 6
-2025,"Cho thuê phòng trọ đối tượng sinh viên hoc sinh, công nhân viên, giá cả hợp lí",-1000000,2016-03-18,11.0,Số 30 Lương Ngọc Quyến,Phường 13,Quận 8
-2026,"2 phòng tại Cao Xuân Dục, cần cho thuê gấp",-1000000,2016-05-11,16.0,Cao Xuân Dục,Phường 13,Quận 8
 2028,"Phòng trọ cho thuê, Bến Bình Đông, Quận 8, Tp.HCM",2200000,2016-10-03,12.0,453 Bến Bình Đông,Phường 13,Quận 8
 2030,"Cho thuê phòng trọ, 42 Mạc Vân, Quận 8",2000000,2016-10-09,15.0,42 Mạc Vân,Phường 13,Quận 8
 2032,"Cho Thuê Phòng Mới, Sạch Sẽ, An Ninh Cao",1500000,2016-11-23,10.0,46/3C Nguyễn Chế Nghĩa,Phường 13,Quận 8
@@ -1905,25 +1878,17 @@ id,title,price,published,acreage,street,ward,district
 2036,Cho thuê phòng quận 8 sạch sẽ an ninh,2300000,2019-12-16,30.0,Đường Cây Sung,Phường 13,Quận 8
 2037,"Cần cho thuê phòng trọ có gác Bến Bình Đông, cạnh Bưu điện Q. 8",1500000,2022-05-09,16.0,517/38 Đường Bến Bình Đông,Phường 13,Quận 8
 2038,"Cho nữ thuê phòng trọ ở P.04, Quận 6, mặt tiền đường Phạm Văn Chí",1500000,2015-11-15,22.0,Phạm Văn Chí,Phường 4,Quận 6
-2039,Cho thuê phòng trọ mới xây sạch đẹp thoáng. Phòng rộng thích hợp cho ở gia đình (vợ chồng 2 con) và sinh viên nữ,-1000000,2016-06-02,15.0,345/15F Hậu Giang,Phường 5,Quận 6
-2040,"Phòng trọ mới xây 345/15F Hậu Giang, Phừơng 5, Quận 6",-1000000,2016-06-03,25.0,Hậu Giang,Phường 5,Quận 6
 2041,"Cho thuê phòng trọ mới xây, sạch đẹp. Phòng rộng thích hợp cho gia đình 4 người (vợ chồng 2 con) sinh viên",1500000,2016-06-01,15.0,345/15F Hậu Giang,Phường 5,Quận 6
 2042,Cho thuê phòng trọ có Gác giá rẻ gần Cầu Chà Và quận 8,1500000,2022-03-19,16.0,517/38 Đường Bến Bình Đông,Phường 13,Quận 8
 2043,"Phòng cao cấp mới xây, gác lửng, giờ tự do!!!",2500000,2017-11-27,20.0,Đường Phạm Văn Chí,Phường 4,Quận 6
 2044,"Cho thuê phòng (nguyên lầu 3 ) rộng, diện tích 54 m2",4000000,2017-02-25,54.0,306 Bình Tiên,Phường 4,Quận 6
 2045,"Phòng trọ cao cấp 18m”, giờ tự do, giá 2,5tr!",2500000,2017-11-19,18.0,Đường Phạm Văn Chí,Phường 4,Quận 6
-2046,Cho thuê phòng trọ Q.6 giá phải chăng,-1000000,2016-10-16,24.5,345/15F Hậu Giang,Phường 4,Quận 6
-2048,"Phòng trọ 345/15F Hậu Giang, Phường 4, Quận 6 ",-1000000,2016-10-11,3.0,345/15F Hậu Giang,Phường 4,Quận 6
-2049,Cho thuê phòng trọ rộng rãi 45m2 quận 6,-1000000,2017-03-19,45.0,366 Phạm Văn Chí,Phường 4,Quận 6
 2051,PHÒNG TRỌ MỚI GẦN TRƯỜNG ĐẠI HỌC FPT QUẬN 6,3000000,2019-02-13,18.0,Đường Phạm Văn Chí,Phường 4,Quận 6
 2052,Cho thuê phòng trọ Quận 6 gần chợ Kim Biên và chợ Bình Tiên,2200000,2018-06-12,16.0,Đường Mai Xuân Thưởng,Phường 4,Quận 6
 2053,Chính chủ cho thuê phòng lầu 1 đầy đủ nội thất 50m2 ngay chợ Bình Tiên Q6,5000000,2020-11-19,50.0,234/9 Đường Phạm Phú Thứ,Phường 4,Quận 6
 2054,"Cho thuê phòng đường Bình Tiên, Q.6",3000000,2019-07-17,25.0,164A Đường Bình Tiên,Phường 4,Quận 6
-2055,"Cho thuê phòng trọ 345/15F Hậu Giang, Phường 5, Quận 6",-1000000,2016-08-20,25.6,Hậu Giang,Phường 5,Quận 6
 2056,cho thuê phòng trọ còn 1 phòng duy nhất rộng thoáng có ban công chỗ phơi đồ bếp nhà vệ sinh riêng thích hợp cho gia đình,1800000,2016-08-26,21.0,345/15F Hậu Giang,Phường 5,Quận 6
 2057,Cho thuê phòng trọ Hậu Giang 345/15F,1800000,2020-05-04,21.0,Đường Hậu Giang,Phường 4,Quận 6
-2058,Cho thuê phòng trọ. Còn 1 phòng duy nhất. Phòng rộng trong phòng chia làm 2 ngăn. Có toilet và bếp riêng thích hợp gia đình,-1000000,2016-06-06,25.0,345/15F Hậu Giang,Phường 5,Quận 6
-2059,Cho thuê phòng trọ quận 6 giá rẽ sạch sẽ,-1000000,2017-04-17,15.5,345/15F Hậu Giang,Phường 5,Quận 6
 2060,Phòng trọ cho thuê giá rẻ ngay Quận 6,2800000,2017-11-26,20.0,261/4k Đường Hậu Giang,Phường 5,Quận 6
 2061,Cho thuê phòng trọ Q6 giá hợp lí,1600000,2019-12-11,12.0,345/15F Đường Hậu Giang,Phường 5,Quận 6
 2062,"Cho thuê phòng trọ giá 1,5 đến 2 triệu đồng",1500000,2017-07-11,9.0,kiệt 187 Mai xuân Thưởng,Phường 5,Quận 6
@@ -1967,7 +1932,6 @@ id,title,price,published,acreage,street,ward,district
 2105,Ký túc xá cao cấp cho nữ full tiện nghi máy lạnh hồ bơi & gym COZOROHOME,1300000,2021-04-13,78.0,1472 Đường Võ Văn Kiệt,Phường 3,Quận 6
 2106,"Cho thuê phòng ở ghép nữ, có nhà vệ sinh riêng từng phòng",800000,2016-12-05,30.0,Bãi Sậy,Phường 8,Quận 6
 2107,"Phòng Lò Gốm 25m2, có bếp riêng như hình 100%",3500000,2017-02-20,25.0,963A1 Lò Gốm,Phường 8,Quận 6
-2108,"Cho thuê tầng 2 nhà Bình Tiên, Quận 6, gần chợ Bình Tiên",-1000000,2016-11-11,32.0,Bình Tiên,Phường 8,Quận 6
 2109,"Lò Gốm 25m2 full nội thất, có bếp riêng",4300000,2017-07-22,25.0,963A1 Lò Gốm,Phường 8,Quận 6
 2110,"Cho Thuê Phòng Trọ, Ở Ghép Quận 6. Liên Hệ Xem Nhà Ngay : 0914.678122",1800000,2021-10-05,20.0,Đường số 23,Phường 11,Quận 6
 2111,"Quận 6, CC An Phú đường Hậu Giang, Phòng Riêng và ở Ghép",2000000,2021-10-29,25.0,Đường Hậu Giang,Phường 11,Quận 6
@@ -2104,7 +2068,6 @@ id,title,price,published,acreage,street,ward,district
 2252,"Cho thuê phòng trọ mặt tiền Đường Hồng Bàng, P.16, Q.11, giá từ 1,5tr/tháng bao điện nước",1500000,2019-10-03,35.0,Đường Hồng Bàng,Phường 16,Quận 11
 2253,NHÀ CÒN DƯ 1 PHÒNG CHO THUÊ GIÁ HỮU NGHỊ,3000000,2020-01-06,22.0,Đường Nguyễn Chí Thanh,Phường 16,Quận 11
 2254,"Phòng trọ Quận 8 25m² 2,5tr giờ giấc tự do, có máy lạnh.",2500000,2022-01-12,25.0,102 Đường Cao Lỗ,Phường 4,Quận 8
-2255,Cho thuê phòng sinh viên nữ,-1000000,2016-01-03,15.0,271 Nguyễn Thị Nhỏ,Phường 16,Quận 11
 2256,"Jinjoo Home - Chung cư TARA - Tạ Quang Bửu, quận 8 - chỉ 3tr tháng",3000000,2022-01-24,20.0,232 Tạ Quang Bửu,Phường 4,Quận 8
 2259,"Cho thuê phòng trọ wc riêng đầy đủ nội thất giá chỉ 3,5tr/tháng",3500000,2022-03-20,30.0,Đường Phạm Hùng,Phường 4,Quận 8
 2260,"Cho thuê phòng trọ giá sinh viên tại 43/63 Dạ Nam, Phường 2, Quận 8",1700000,2021-10-03,13.0,43/63 Dạ Nam,Phường 2,Quận 8
@@ -2128,7 +2091,6 @@ id,title,price,published,acreage,street,ward,district
 2279,PHÒNG TRỌ NGAY CẦU CHỮ Y QUẬN 1,2500000,2020-09-23,37.0,Đường Đặng Chất,Phường 2,Quận 8
 2280,Phòng trọ 16m2 đường Đặng Chất Q8,2500000,2020-09-05,16.0,119F/27 Đường Đặng Chất,Phường 2,Quận 8
 2281,PHÒNG CHO THUÊ NHÀ MƠI XÂY CÓ GÁC VÀ MÁY LẠNH,4500000,2020-09-08,30.0,28/40B Đường Dương Bá Trạc,Phường 2,Quận 8
-2282,Cho nữ thuê phòng trợ mới quận 8 gần trung tâm,2500000,2020-10-01,0.0,Hẻm 198 Đường Dương Bá Trạc,Phường 2,Quận 8
 2283,PHÒNG TRỌ QUẬN 8 FULL NỘI THẤT MỚI XÂY,6100000,2020-10-07,30.0,Đường Dương Bá Trạc,Phường 2,Quận 8
 2284,"CĂN HỘ DỊCH VỤ CAO CẤP MỚI XÂY, BẢO VỆ 24/24, DỌN VÔ Ở LIỀN (chỉ còn lại ÍT phòng, GỌI NGAY để được GIÁ TỐT)",5000000,2020-10-02,25.0,288/65 Đường Dương Bá Trạc,Phường 2,Quận 8
 2285,"CHO THUÊ CĂN HỘ GẦN CẦU CHỮ Y QUẬN 8, NGUYỄN VĂN CỪ",4500000,2020-09-05,32.0,33 Đường Dạ Nam,Phường 2,Quận 8
@@ -2884,7 +2846,6 @@ id,title,price,published,acreage,street,ward,district
 3051,"Cho thuê phòng trọ đẹp, DT 20m2, Đ.Kỳ Đồng, Quận 3, giá 3tr",3000000,2020-11-19,20.0,14 Phố Kỳ Đồng,Phường 9,Quận 3
 3052,"DỌN VÀO NGAY, ĐƯỜNG NGUYỄN THÔNG KẾ GA SÀI GÒN",2500000,2020-12-07,14.0,96/6/7 Nguyễn Thông Đường Nguyễn Thông,Phường 9,Quận 3
 3053,"Cho thuê phòng Hẻm 79/13A Trần Văn Đang, P.9, Q.3. Giá 3Tr/Th",3000000,2020-12-17,20.0,79/13A Đường Trần Văn Đang,Phường 9,Quận 3
-3054,CHO THUÊ PHÒNG TRỌ QUẬN 3 GIÁ PHẢI CHĂNG,1600000,2021-04-19,0.0,69/6 Đường Trần Văn Đang,Phường 9,Quận 3
 3055,Còn trống 1 phòng cho 1 bạn nữ thuê ở,2200000,2021-05-03,12.0,Đường Nguyễn Thông,Phường 9,Quận 3
 3056,Phòng trọ Quận 3 tại 85/10/21 Rạch Bùng Bình Quận 3,2900000,2021-11-02,20.0,85/10/21 Đường Rạch Bùng Binh,Phường 9,Quận 3
 3057,"Phòng cho thuê mặt tiền Nguyễn Thông Q3, giao với Kỳ Đồng",5000000,2021-11-03,20.0,57 Đường Nguyễn Thông,Phường 9,Quận 3
@@ -3066,7 +3027,6 @@ id,title,price,published,acreage,street,ward,district
 3237,"Cho thuê phòng trọ tại 436/59/20 Đường Cách Mạng Tháng Tám, Phường 11, Quận 3",3000000,2022-08-03,16.0,436/59/20 Đường Cách Mạng Tháng Tám,Phường 11,Quận 3
 3238,"Ra Mắt Căn Hộ Mới Xây Cạnh Bờ Kè Hoàng Sa, giá 5tr5",5500000,2022-08-03,28.0,Đường Hoàng Sa,Phường 11,Quận 3
 3240,Cần tìm phòng trọ giá binh dân tại Nguyễn Văn Đậu,1000000,2016-04-21,10.0,Nguyễn Văn Đậu,Phường 6,Quận Phú Nhuận
-3241,Cho thuê phòng trọ mới tại đường Thích Quảng Đức,-1000000,2016-04-28,29.0,Thích Quảng Đức,Phường 6,Quận Phú Nhuận
 3242,Cho Thuê Phòng Full Nội Thất đường Nguyễn Văn Lượng,3800000,2022-05-16,30.0,350 Đường Nguyễn Văn Lượng,Phường 16,Quận Gò Vấp
 3243,Phòng Trọ- Nhà Trọ Gò Vấp Gần Công Viên Làng Hoa,4000000,2022-05-19,25.0,180 Đường số 1,Phường 16,Quận Gò Vấp
 3244,Phòng trọ đối diện truờng Trần cao vân Gò Vấp,2200000,2022-05-23,12.0,477/43/14 thống nhất p16 gò vấp Đường Thống Nhất,Phường 16,Quận Gò Vấp
@@ -3735,7 +3695,6 @@ id,title,price,published,acreage,street,ward,district
 3926,phòng trọ quận phú nhuận giá rẻ,3500000,2021-10-12,20.0,120/9a Thích Quảng Đức,Phường 4,Quận Phú Nhuận
 3927,"Phòng trọ 20m2 tại 13/22D Đường Lê Tự Tài, Phường 4, Quận Phú Nhuận,",2600000,2021-11-17,20.0,13/22D Đường Lê Tự Tài,Phường 4,Quận Phú Nhuận
 3928,"Chính chủ cho thuê phòng trong nhà nguyên căn. Đ/c 156 Đường Phùng Văn Cung, Phường 4, Quận Phú Nhuận",3300000,2021-11-10,18.0,156 Đường Phùng Văn Cung,Phường 4,Quận Phú Nhuận
-3929,Phòng ký túc xá quận Phú Nhuận hỗ trợ 30% giá mùa dịch,490000,2021-07-22,20.0,120/9 Thích Quảng Đức,Phường 4,Quận Phú Nhuận
 3930,Phòng trọ phú nhuận full nội thất gần sân bay. Co.op Nguyễn Kiệm. Công Viên gia định,4500000,2021-10-27,18.0,744/2 Đường Nguyễn Kiệm,Phường 4,Quận Phú Nhuận
 3931,"Phòng cho thuê ở 493/4 Đường Nguyễn Kiệm, Phường 4, Quận Phú Nhuận gần công viên gia định",5000000,2021-10-08,25.0,493/4 Đường Nguyễn Kiệm,Phường 4,Quận Phú Nhuận
 3932,"Phòng trọ 24m2 Thích Quảng Đức sạch sẽ, WC riêng,có sân thượng",3200000,2021-11-12,24.0,120/9A Thích Quảng Đức,Phường 4,Quận Phú Nhuận
@@ -4905,7 +4864,6 @@ id,title,price,published,acreage,street,ward,district
 5151,Cho thuê phòng trọ có máy lạnh 2500k/tháng tại đường Nguyễn Cảnh Chân Quận 1,2500000,2020-08-12,20.0,Đường Nguyễn Cảnh Chân,Phường Cầu Kho,Quận 1
 5152,"Chính chủ cho thuê ký túc xá bao điện nước Full nội thất tại Trần Hưng Đạo Q1 giá 2,2tr/th",2200000,2020-08-07,40.0,345/5B Đường Trần Hưng Đạo,Phường Cầu Kho,Quận 1
 5153,"phòng trọ cừa sổ lớn 23m. 3.5 tr hẻm cụt 5m 441 lê văn lương q7 gần ĐH TĐT, LOTTE MART",3500000,2022-03-10,23.0,441 Đường Lê Văn Lương,Phường Tân Hưng,Quận 7
-5154,"Phòng trọ cao cấp mới đẹp, full nội thất giá sinh viên tại Khu Dân cư Kiều Đàm, Phường Tân Hưng, Quận 7",-1000000,2022-03-18,24.0,Khu Dân cư Kiều Đàm Trần Xuân Soạn,Phường Tân Hưng,Quận 7
 5155,"Phòng master ở chung cư Hoàng Anh Gia Lai 2, Gần Lotte Mart",5000000,2022-03-17,30.0,Trần Xuân Soạn,Phường Tân Hưng,Quận 7
 5156,"Nhà Mới Xây, Phòng Mới, Trần Xuân Soạn Q7",3900000,2022-03-26,25.0,1041 Phố Trần Xuân Soạn,Phường Tân Hưng,Quận 7
 5157,"Chính chủ cho thuê, phòng sát cầu HimLam Q7, giờ tự do",2800000,2022-03-16,25.0,1041/62/158 Phố Trần Xuân Soạn,Phường Tân Hưng,Quận 7
@@ -5506,7 +5464,6 @@ id,title,price,published,acreage,street,ward,district
 5794,Tìm người ở ghép share tiền nhà nguyên căn,1000000,2016-11-11,100.0,12,Phường Phước Bình,Quận 9
 5795,"CẦN TÌM NỮ Ở GHÉP KHU VỰC THỦ ĐỨC, QUẬN 9",1500000,2016-09-28,15.0,Đường 1,Phường Phước Bình,Quận 9
 5796,Cho thuê trọ giá từ 750 đến 1tr4,750000,2016-07-10,20.0,25 đường 14,Phường Phước Bình,Quận 9
-5797,"PHÒNG TRỌ MỚI XÂY –QUẬN 9 – GIÁ CHỈ TỪ 1,8 TRIỆU/THÁNG",-1000000,2016-05-29,20.0,260 đường 12,Phường Phước Bình,Quận 9
 5798,"Phòng trọ mới xây, ngay Đại Lộ 3, gần Đỗ Xuân Hợp, Quận 9. LH: 0909729123 a.Hiệp, 0974508092, chú Năm",1800000,2017-01-09,20.0,Đường 12,Phường Phước Bình,Quận 9
 5799,"Phòng trọ mới xây Phước Bình, Quận 9, 25m2, có nội thất, bancon, 3,2 tr/th, LH 0944979686",3200000,2019-03-08,25.0,Đường Đại lộ 3,Phường Phước Bình,Quận 9
 5800,Phòng trọ cho thuê Quận 9 mới xây dựng,3500000,2019-10-07,30.0,Đường số 14,Phường Phước Bình,Quận 9
@@ -5636,13 +5593,11 @@ id,title,price,published,acreage,street,ward,district
 5941,"Ký Túc Xá Cao Cấp THE PATH HOME thân thiện, văn minh, sạch sẽ.",1600000,2022-04-10,40.0,505/2 Đường Lê Hồng Phong,Phường 2,Quận 10
 5942,Phòng Cao Cấp Giá Sinh viên khu ẩm thực Bà Hạt Q10 - 4tr7,4700000,2022-01-10,30.0,Đường Bà Hạt,Phường 2,Quận 10
 5943,"Cho thuê phòng trọ sạch sẽ thoàng mát, Quận 10, HCM",3500000,2016-09-13,30.0,236/29 Hòa Hảo,Phường 3,Quận 10
-5945,"Cho thuê phòng 12m2 cao ốc A, Ngô Gia Tự",-1000000,2016-11-12,12.0,Ngô Gia Tự,Phường 3,Quận 10
 5946,CHO THUÊ CĂN HỘ MINI CAO CẤP TRUNG TÂM QUẬN 10 - LH 0909665232,3500000,2018-07-19,20.0,41/7 Đường Sư Vạn Hạnh,Phường 3,Quận 10
 5947,"Cần nữ share phòng nhà 3 tầng 1,5tr/ tháng",1500000,2017-06-23,20.0,41/17B Sư Vạn Hạnh,Phường 3,Quận 10
 5948,"CHO THUÊ PHÒNG CAO ỐC A NGÔ GIA TỰ, QUẬN 1O",3500000,2018-02-23,25.0,Đường Hòa Hảo,Phường 3,Quận 10
 5949,"Cần người share phòng ở Cao ốc B Ngô Gia Tự, Q.10",1200000,2018-03-14,74.0,Đường Hòa Hảo,Phường 3,Quận 10
 5950,"CHO THUÊ PHÒNG CAO ỐC A CC NGÔ GIA TỰ, QUẬN 1O",3500000,2018-01-29,25.0,Đường Hòa Hảo,Phường 3,Quận 10
-5951,Tìm 1 nữ ở ghép chung cư Ngô Gia Tự,-1000000,2016-12-06,15.0,Hòa Hảo,Phường 3,Quận 10
 5952,"CHO THUÊ PHÒNG CAO ỐC A NGÔ GIA TỰ, QUẬN 10",3500000,2018-04-20,25.0,Đường Hòa Hảo,Phường 3,Quận 10
 5953,"Cho thuê phòng có nội thất trong chung cư Ngô Gia Tự, Q.10, giá 5tr/tháng. LH Mr Vũ 0389048776",5000000,2019-04-23,20.0,Đường Hòa Hảo,Phường 3,Quận 10
 5954,"Phòng trọ 20m2 khu trung tâm Q.10, tiện ích đầy đủ",3500000,2019-10-31,20.0,160/7 Đường Nguyễn Duy Dương,Phường 3,Quận 10
@@ -5671,7 +5626,6 @@ id,title,price,published,acreage,street,ward,district
 5980,"Chính chủ cho thuê căn hộ xây mới, full nội thất, Ngô Gia Tự, Quận 10",6000000,2020-04-23,25.0,400/1 Đường Ngô Gia Tự,Phường 4,Quận 10
 5981,"Cho thuê phòng Quận 10 - giờ giấc tự do, ngay chợ Nguyễn Tri Phương",3500000,2017-07-15,18.0,Bà Hạt,Phường 6,Quận 10
 5982,"Cho Nam NV-NVVP thuê phòng, nhà Nguyễn Chí Thanh, Q.10",3000000,2019-11-01,12.0,422/7 Đường Nguyễn Chí Thanh,Phường 6,Quận 10
-5985,Cho thuê phòng trọ Quận 10 sạch sẽ đường Tân Phước,-1000000,2016-02-23,15.0,214 Tân Phước,Phường 6,Quận 10
 5988,"Cho thuê phòng trọ 44m2 tại Q.10, gần Đh Kinh Tế",3500000,2016-03-31,44.0,143 Đào Duy Từ,Phường 6,Quận 10
 5991,"Cho nữ thuê phòng lầu 1 đường Hòa Hảo, Quận 10",2500000,2016-07-16,15.0,Hòa Hảo,Phường 4,Quận 10
 5993,"Cho nữ thuê phòng mặt tiền đường Hòa Hảo, Quận 10",2400000,2016-06-06,14.0,318 Hòa Hảo,Phường 4,Quận 10
@@ -5791,7 +5745,6 @@ id,title,price,published,acreage,street,ward,district
 6112,Cho thuê phòng 30m2 Full nội thất nhà mới xây khu Luxhome Quận Bình Tân giá 4tr/th,4000000,2021-04-15,30.0,147 Đường An Dương Vương,Phường An Lạc,Quận Bình Tân
 6113,"Cho thuê phòng trọ 15m2 / 1tr5 ngay chợ Hồ Ngọc Lãm, WC riêng, có gác.",1500000,2021-05-03,15.0,13H Đường số 13,Phường An Lạc,Quận Bình Tân
 6114,Cho thuê nhiều phòng trọ giá rẻ ở Bình Tân,2500000,2021-05-06,25.0,Tên Lửa,Phường An Lạc,Quận Bình Tân
-6115,"Cho thuê phòng trọ cao cấp tại Q.Bình Thạnh, LH: 0934 172 568 ChúThành.",-1000000,2022-05-21,20.0,236 Đinh Bộ Lĩnh,Phường 26,Quận Bình Thạnh
 6116,"Phòng trọ sạch đẹp, tiện nghi diện tích từ 16m2 đến 35m2 tại 216 Đường số 1, Phường An Lạc, Quận Bình Tân",3000000,2021-06-11,20.0,216 Đường số 1,Phường An Lạc,Quận Bình Tân
 6117,"Phòng Bình Thạnh có bếp tách biệt, 3 cửa sổ trời",5600000,2022-05-27,26.0,Đường Quốc Lộ 13,Phường 26,Quận Bình Thạnh
 6118,ĐINH BỘ LĨNH- Phòng Cửa Sổ Đẹp -HUTECH Bình Thạnh,5100000,2022-05-26,22.0,Đường Đinh Bộ Lĩnh,Phường 26,Quận Bình Thạnh
@@ -6264,7 +6217,6 @@ id,title,price,published,acreage,street,ward,district
 6599,PHÒNG TRỌ CAO CẤP[ GIÁ SINH VIÊN] GIỜ GIẤC TỰ DO/ NGAY CẦU KINH THANH ĐA 0909.879.399,3800000,2020-08-21,20.0,11-13 Đường Bình Quới,Phường 27,Quận Bình Thạnh
 6600,"Cho thuê ký túc xá FULL nội thất, nhiều tiện ích đẳng cấp tại Bình Thạnh",1400000,2020-08-26,30.0,Đường D2,Phường 27,Quận Bình Thạnh
 6601,Phòng trọ cho thuê tại Bình Quới phường 27 quận Bình Thạnh,1800000,2020-09-16,12.0,Đường Bình Quới,Phường 27,Quận Bình Thạnh
-6602,Phòng trọ giá rẻ dành cho sinh viên gần Hutech và các trường đại học Bình Thạnh,-1000000,2020-10-24,18.0,28 Đường Thanh Đa,Phường 27,Quận Bình Thạnh
 6603,TÌM NGƯỜI SHARE PHÒNG CHUNG CƯ THANH ĐA VIEW,1700000,2020-09-10,20.0,07 Đường Thanh Đa,Phường 27,Quận Bình Thạnh
 6604,Phòng trọ Thanh Đa mới xây 22m2 full nội thất,5500000,2020-11-24,22.0,133 Đường Bình Quới,Phường 27,Quận Bình Thạnh
 6605,Căn hộ mini Thanh Đa full nội thất,4800000,2021-03-17,28.0,105/8B Đường Bình Quới,Phường 27,Quận Bình Thạnh
@@ -6543,7 +6495,6 @@ id,title,price,published,acreage,street,ward,district
 6885,Phòng ban công sẵn máy lạnh gần Aeon Tân Phú,3300000,2022-05-03,25.0,Đường số 26/3,Phường Bình Hưng Hòa,Quận Bình Tân
 6886,"Cho thuê phòng trọ 92/41 đường số 12, p Bình Hưng Hòa, quận Bình Tân. 20m2, có gác, giá 2 triệu",2000000,2022-04-28,20.0,92/41 Đường số 12,Phường Bình Hưng Hòa,Quận Bình Tân
 6887,Khai trương Phòng trọ mới 100% Giá rẻ ngay Aeon Tân Phú,3500000,2022-05-08,28.0,Đường số 26/3,Phường Bình Hưng Hòa,Quận Bình Tân
-6888,Cho thuê phòng trọ giờ tự do giá bình dân từ 1tr8_2tr3,1000,2022-04-07,15.0,Đường Tân Kỳ Tân Quý,Phường Bình Hưng Hòa,Quận Bình Tân
 6889,Cho Thuê Phòng Nội Thất Cơ Bản Đẹp Gần Lê Trọng Tấn,3900000,2022-05-09,25.0,Đường số 3,Phường Bình Hưng Hòa,Quận Bình Tân
 6890,Cho Thuê Phòng Full Nội Thất Ngay Lê Trọng Tấn Giá Tốt,4000000,2022-05-23,27.0,Lê Trọng Tấn,Phường Bình Hưng Hòa,Quận Bình Tân
 6891,******SIÊU RẺ********* GẦN KCN TÂN BÌNH - CỬA GỖ - 30M2 - 1TR7,1700000,2022-08-06,30.0,36/3 Đường số 2,Phường Bình Hưng Hòa,Quận Bình Tân
@@ -6829,7 +6780,6 @@ id,title,price,published,acreage,street,ward,district
 7176,"Cho thuê phòng trọ gần ngay chợ tại 87/1 Bành Văn Trân, Phường 7, Quận Tân Bình",4000000,2021-10-26,25.0,87/1 Bành Văn Trân,Phường 7,Quận Tân Bình
 7177,"Phòng trọ mới tại Vân Coi cho thuê giá rẻ, khu an ninh, yên tĩnh",2500000,2021-05-25,18.0,29 Đường Vân Côi,Phường 7,Quận Tân Bình
 7178,"Cho thuê phòng trọ tại khu vực quận Tân Bình, TPHCM",3700000,2021-02-25,20.0,Đường Bành Văn Trân,Phường 7,Quận Tân Bình
-7179,"Pass phòng do mình chuyển về nhà ở. Phòng 2,2 Triệu/Tháng tại Đường Lê Minh Xuân, Phường 7, Quận Tân Bình",2200000,2022-07-02,0.0,134 Đường Lê Minh Xuân,Phường 7,Quận Tân Bình
 7180,"Phòng trọ cho thuê mới xây 134 Lê Minh Xuân, P.7, Q.Tân Bình- Lý Thường Kiệt - chợ Tân Bình",2000000,2022-07-18,20.0,134 Đường Lê Minh Xuân,Phường 7,Quận Tân Bình
 7181,"Phòng trọ Ban công Cửa sổ thoáng, Ngã tư bảy hiền, BV Thống Nhất, Lý Thường Kiệt,CMT8",3000000,2022-05-17,27.0,Phố Lý Thường Kiệt,Phường 7,Quận Tân Bình
 7182,Phòng Cho Thuê bờ kè Hoàng Sa Tân Bình giá rẻ,2100000,2021-01-15,16.0,1355/20 Đường Hoàng Sa,Phường 5,Quận Tân Bình
@@ -7388,7 +7338,6 @@ id,title,price,published,acreage,street,ward,district
 7770,PHÒNG CAO CẤP MÁY LẠNH INVERTER- LỐI ĐI RIÊNG- GIỜ TỰ DO- CÁCH ĐẦM SEN 500M,2700000,2021-04-06,20.0,48/9C Đường Lương Thế Vinh,Phường Tân Thới Hòa,Quận Tân Phú
 7771,Cho nữ thuê phòng có ban công thoáng mát. Giá cho thuê: 2.500.000-3.000.000 vnđ.,2500000,2021-06-18,20.0,80 Đường Lý Thánh Tông,Phường Tân Thới Hòa,Quận Tân Phú
 7772,"Cho thuê phòng trọ cao cấp có máy lạnh, nhà vệ sinh, bếp. Phòng 3tr000",3000000,2021-06-13,18.0,178/56 Tô Hiệu,Phường Tân Thới Hòa,Quận Tân Phú
-7773,"Phòng trọ Tân Phú Máy Lạnh, Ban Công riêng view Đẹp, gần CO.OPmart Hoà Bình, Chợ Phú Lâm, Cafe Lâu Đài Đá, Chợ Hiệp Tân",1500000,2021-09-28,0.0,3S Đường Tô Hiệu,Phường Tân Thới Hòa,Quận Tân Phú
 7774,"Cho thuê phòng cao cấp tại 40/42 Tô Hiệu P Tân Thới Hoà Q Tân Phú giá 2,4tr/th",2400000,2021-10-24,16.0,40/42 Đường Tô Hiệu,Phường Tân Thới Hòa,Quận Tân Phú
 7775,"CHÍNH CHỦ KHAI TRƯƠNG 100 PHÒNG TRỌ CAO CẤP MỚI 100%, CÓ GÁC GIÁ TỪ 3TR/THÁNG",3000000,2021-10-12,25.0,51/9 Đường Hòa Bình,Phường Tân Thới Hòa,Quận Tân Phú
 7776,"Phòng trệt có gác Hòa Bình gần ngã tư kênh Tân Hóa gần đầm sen giá 1,8tr",1500000,2021-10-04,20.0,43/20 Đường Hòa Bình,Phường Tân Thới Hòa,Quận Tân Phú
@@ -7586,7 +7535,6 @@ id,title,price,published,acreage,street,ward,district
 7996,"Phòng trọ lớn cho thuê, phòng rộng 32 m vuông",2000000,2019-08-21,32.0,E7/15 Đường Nguyễn Hữu Trí,Thị trấn Tân Túc,Huyện Bình Chánh
 7997,Phòng trọ huyện Bình Chánh - gần chợ Cầu Xáng- Tỉnh Lộ 10,1600000,2020-07-18,20.0,6a21/10 Đường An Hạ,Xã Phạm Văn Hai,Huyện Bình Chánh
 7998,"Cho thuê nhà riêng giá rẻ chỉ 3tr2/tháng tại Nguyễn Hữu Trí, Thị trấn Tân Túc, Huyện Bình Chánh",3200000,2021-12-01,60.0,Nguyễn Hữu Trí,Thị trấn Tân Túc,Huyện Bình Chánh
-7999,"Thanh lý 10 nền đất đầu tư vùng ven khu Tây TP.HCM, SHR, chỉ 480tr/100m2, SHR, ngân hàng hỗ trợ 70%",-1000000,2017-04-04,100.0,Nguyễn Hữu Trí,Thị trấn Tân Túc,Huyện Bình Chánh
 8000,Cho thuê 1 tầng trên nhà tại Bình Chánh,1500000,2019-07-16,30.0,Đường Nguyễn Hữu Trí,Thị trấn Tân Túc,Huyện Bình Chánh
 8001,PHÒNG TRỌ LIỀN KỀ TRUNG TÂM SÀI GÒN,2000000,2019-11-22,18.0,92 Đường Quốc Lộ 50,Xã Phong Phú,Huyện Bình Chánh
 8002,"Bán gấp dãy trọ 7p thu nhập 12tr/1th ngay BV Chợ Rẫy 2, KCN sầm uất, SHR, 990tr, 090.290.4945",12000000,2018-07-25,130.0,Đường Mai Bá Hương,Xã Lê Minh Xuân,Huyện Bình Chánh
@@ -7763,7 +7711,6 @@ id,title,price,published,acreage,street,ward,district
 8193,"Share phòng căn hộ Đức Khải Quận 2. Giá thuê 2,6 triệu/tháng",2600000,2020-08-03,18.0,Chung Cư Đức Khải Đường số 4,Phường Bình Khánh,Quận 2
 8194,"Share 1 phòng, trong căn hộ 3PN full nội thất cao cấp, chung cư New City.",7000000,2020-04-13,20.0,17 Đường Mai Chí Thọ,Phường Bình Khánh,Quận 2
 8195,Phòng trong Căn hộ 2pn Bình Khánh Quận 2,3800000,2019-08-23,12.0,Block B Đường số 1,Phường Bình Khánh,Quận 2
-8198,"Cho thuê phòng Quận 2 ưu tiên nữ sinh viên, nhân viên văn phòng",-1000000,2016-12-12,25.0,Đường 37A,Phường An Khánh,Quận 2
 8199,Phòng trọ gác đúc gần văn phòng ấp 6 Tân Thạnh Đông,800000,2016-06-14,26.0,Nguyễn Kim Cương,Xã Tân Thạnh Đông,Huyện Củ Chi
 8200,"Nhà trọ mới xây Tân Thạnh Đông, Củ Chi",750000,2016-07-08,22.0,Đường 110,Xã Tân Thạnh Đông,Huyện Củ Chi
 8201,Cần cho thuê 1pn trong căn hộ chung cư Bình Khánh. dt 70 m2 giá cho thuê 4 triệu Liên hệ: 0937334519,4000000,2021-10-02,50.0,nhà e lô j chung cư Phố Lương Định Của,Phường Bình Khánh,Quận 2
@@ -7862,8 +7809,6 @@ id,title,price,published,acreage,street,ward,district
 8298,Phòng trọ thoáng mát quận Tân Phú,2900000,2022-03-27,18.0,204 Trần Thủ Độ,Phường Phú Thạnh,Quận Tân Phú
 8299,"Phòng trọ tại Đường B, Phường Phú Thạnh, Quận Tân Phú gần Thoại Ngọc Hầu",3800000,2022-05-09,30.0,Đường B,Phường Phú Thạnh,Quận Tân Phú
 8304,Cho thuê phòng trọ Linh Xuân - Thủ Đức giá rẻ,1100000,2016-05-05,20.0,17/4 Đường số 8,Phường Linh Xuân,Quận Thủ Đức
-8308,"The Navita, nơi an cư lí tưởng chỉ với 540 triệu/căn, NH hỗ trợ 50-70%, 0 lãi xuất",-1000000,2016-04-10,80.0,Đường 10,Phường Tam Bình,Quận Thủ Đức
-8309,"CHO THUÊ PHÒNG RIÊNG BIỆT TẠI KHU VỰC QUẬN THỦ ĐỨC, TP.HCM",-1000000,2016-03-29,28.0,Số 528/17/8A Tô Ngọc Vân,Phường Tam Bình,Quận Thủ Đức
 8310,"PHÒNG Ở RIÊNG BIỆT TẠI QUẬN THỦ ĐỨC, TP.HCM",2000000,2016-04-21,28.0,528/17/8A Tô Ngọc Vân,Phường Tam Bình,Quận Thủ Đức
 8311,"Cho thuê phòng trọ đẹp mới xây Vườn Lài, quận Tân Phú",2500000,2021-11-07,20.0,Vườn Lài,Phường Tân Thành,Quận Tân Phú
 8312,Cho thuê phòng trọ phường Linh Xuân,1800000,2017-04-07,20.0,Đường 1,Phường Linh Xuân,Quận Thủ Đức
@@ -8082,7 +8027,6 @@ id,title,price,published,acreage,street,ward,district
 8540,** New Guestel House** - Thủ Đức. Giá rẻ đủ tiện nghi,1500005,2021-03-24,200.0,39A Đường số 9,Phường Linh Tây,Quận Thủ Đức
 8541,Phòng trọ khép kín 25m2 ở lầu 2. Ưu tiên nữ ở. Giờ giấc thoải mái,3000000,2020-11-30,25.0,Đường Trịnh Phong Đáng,Phường Linh Tây,Quận Thủ Đức
 8542,Kí Túc Xá Cao Cấp ngay Chợ Thủ Đức,1400000,2020-12-09,200.0,64 Đường Dương Văn Cam,Phường Linh Tây,Quận Thủ Đức
-8543,"Phòng trọ giá rẻ tại trung tâm Thủ Đức(gần chợ, trường học)",-1000000,2020-12-16,60.0,Đường Dương Văn Cam,Phường Linh Tây,Quận Thủ Đức
 8544,"Cho thuê phòng trọ gần đường Phạm Văn Đồng, Thủ Đức",3300000,2020-12-14,32.0,Đường 9,Phường Linh Tây,Quận Thủ Đức
 8545,Phòng 20 m2 sạch đẹp D1 - Linh Tây cho thuê,2600000,2021-03-28,20.0,12 Đường D1,Phường Linh Tây,Quận Thủ Đức
 8546,"KTX cao cấp kế bên ĐH Ngân Hàng, Giá sinh viên đủ tiện nghi nội thất",1350000,2021-03-21,100.0,39A 9,Phường Linh Tây,Quận Thủ Đức
@@ -8396,8 +8340,6 @@ id,title,price,published,acreage,street,ward,district
 8872,Phòng Đẹp có Gác Lửng - 26/42 Tân Sơn Nhì Q.Tân Phú (Có Thang Máy - Máy Giặt miễn phí),2700000,2022-08-03,20.0,26/42 Tân Sơn Nhì,Phường Tân Sơn Nhì,Quận Tân Phú
 8873,"Căn hộ mini giảm sâu đẹp có View Ban Công 1PN, 1PK, 26/42 Tân Sơn Nhì, Tân Phú (có tiện nghi)",4000000,2022-07-22,30.0,26/42 Đường Tân Sơn Nhì,Phường Tân Sơn Nhì,Quận Tân Phú
 8874,"Cho thuê phòng trọ nhỏ xinh, không gian yên tĩnh, giá cả hợp lý",1600000,2016-11-17,20.0,Lý Thường Kiệt,Phường 2,Quận 11
-8875,"Cho thuê phòng Ký túc xá, giường tầng, giờ giấc tự do, giá cả hợp lý: chỉ có 400K/tháng",400000,2016-11-17,30.0,Lý Thường Kiệt,Phường 2,Quận 11
-8876,"KÝ TÚC XÁ TƯ NHÂN CAO CẤP, CHỈ CÓ 500K/K",400000,2016-11-17,30.0,Phố Lý Thường Kiệt,Phường 2,Quận 11
 8877,"Phòng trọ giá rẻ tại đường Minh Phụng, quận 11",1200000,2018-04-17,12.0,Đường Minh Phụng,Phường 2,Quận 11
 8878,"Phòng trọ giá rẻ Quận 11, giá 1tr8 mới xây giời giấc tự do",2000000,2017-06-03,12.0,Thái Phiên,Phường 2,Quận 11
 8879,Phòng cho thuê Q.11 chính chủ,2500000,2019-03-30,18.0,34 Đường Phú Thọ,Phường 2,Quận 11
@@ -8446,7 +8388,6 @@ id,title,price,published,acreage,street,ward,district
 8927,Tìm phòng trọ đi bộ tới trường Cao Đẳng Công Nghệ Thủ Đức khoảng 10p,2000000,2019-08-12,20.0,Đường Võ Văn Ngân,Phường Bình Thọ,Quận Thủ Đức
 8928,Cho thuê lầu nguyên căn đường Ngô Chí Quốc,2500000,2017-08-18,70.0,Đường Ngô Chí Quốc,Phường Bình Chiểu,Quận Thủ Đức
 8929,CHO THUÊ PHÒNG TRỌ MỚI XÂY sạch sẽ thoáng mát ánh sáng ngập tràn.,1800000,2016-11-07,24.0,Hem 68/7A Lê Thị Hoa,Phường Bình Chiểu,Quận Thủ Đức
-8931,Phòng cho thuê gần chợ Đầu Mối Nông Sản Thủ Đức,-1000000,2016-02-16,30.0,56/3 đường Bình Chiểu,phường Bình Chểu,Quận Thủ Đức
 8932,"Cho thuê phòng trọ ở Thủ Đức, có thể dọn vào ở ngay",2500000,2019-01-12,28.0,76/25 Đường Lê Thị Hoa,Phường Bình Chiểu,Quận Thủ Đức
 8933,"Phòng trọ bình dân, giờ giấc tự do quận Thủ Đức khu nhà thờ Khiết Tâm",2000000,2017-10-04,20.0,Đường 11,Phường Bình Chiểu,Quận Thủ Đức
 8934,PHÒNG CHO THUÊ - YÊN TĨNH - THOÁNG MÁT,3000000,2019-03-15,22.0,Đường Ngô Chí Quốc,Phường Bình Chiểu,Quận Thủ Đức
@@ -8528,7 +8469,6 @@ id,title,price,published,acreage,street,ward,district
 9014,Cho thuê phòng MT Đường 21 gần GIGAMALL. Giá phòng 2.8 tr/tháng,2800000,2022-04-24,27.0,44 Đường số 21,Phường Hiệp Bình Chánh,Quận Thủ Đức
 9015,"Phòng Full NT như hình, ĐC 110 Ông Ích Khiêm giá 4tr5",4500000,2021-12-07,25.0,110 Ông Ích Khiêm,Phường 5,Quận 11
 9016,Bên mình còn 2 phòng trống giá 1tr5 và 2tr cho các bạn sv,1500000,2021-12-06,25.0,324 Lạc Long Quân,Phường 5,Quận 11
-9017,trung tâm giới thiêu nhà trọ SÀI GÒN CITY,2000000,2016-07-19,0.0,Lạc Long Quân,Phường 4,Quận 11
 9018,Phòng Gác Lững FULL GIÓ TRỜI ngay ÂU CƠ Q11 - đầy đủ tiện nghi,3700000,2021-12-16,30.0,Âu Cơ,Phường 5,Quận 11
 9019,Tìm nữ ở chung nhà nguyên căn,900000,2017-02-28,48.0,Nguyễn Chí Thanh,Phường 4,Quận 11
 9020,Phòng trọ khai trương Quận 11 ngay Hòa Bình - Kênh Tân Hóa,3000000,2020-11-14,25.0,Đường Hòa Bình,Phường 3,Quận 11
@@ -8548,7 +8488,6 @@ id,title,price,published,acreage,street,ward,district
 9034,Phòng có ban công riêng - gần Đầm Sen Tân Phú giá rẻ,3500000,2022-05-28,28.0,Đường Khuông Việt,Phường 5,Quận 11
 9036,TÌM 2 BẠN NỮ Ở GHÉP NHÀ NGUYÊN CĂN,900000,2017-03-14,48.0,Nguyễn Chí Thanh,Phường 4,Quận 11
 9037,"*Còn phòng như hình - giờ giấc tự do quận 11* gần đầm sen, âu cơ",3300000,2022-07-08,30.0,18D Cư Xá Phú Bình,Phường 5,Quận 11
-9038,"Cho thuê phòng trong chung cư Phú Thọ, sẵn nội thất, ở được 3 bạn, Cho các bạn Nam thuê",-1000000,2022-07-22,70.0,Chung cư Phú Thọ Nguyễn Thị Nhỏ,Phường 5,Quận 11
 9039,TÌM 1 BẠN NỮ Ở GHÉP NHÀ NGUYÊN CĂN QUẬN 11,800000,2017-03-30,48.0,904/12b Nguyễn Chí Thanh,Phường 4,Quận 11
 9040,"Căn hộ ban công_FULL nội thất_30m2_gần vòng xoay Lê Đại Hành,ngã tư Âu cơ",4500000,2022-06-13,30.0,Âu Cơ,Phường 5,Quận 11
 9041,"Cho thuê phòng trọ 2,5tr gần Đầm Sen",2500000,2018-11-09,10.0,Đường Lạc Long Quân,Phường 3,Quận 11
@@ -8655,7 +8594,6 @@ id,title,price,published,acreage,street,ward,district
 9167,"Cho thuê nhà trọ 120/4H Ấp Tam Đông, Thới Tam Thôn, Hóc Môn, mới xây, rộng rãi, an ninh",2500000,2022-07-23,30.0,120/4H Ấp Tam Đông Đường Tam Đông,Xã Thới Tam Thôn,Huyện Hóc Môn
 9168,"Cho thuê phòng trọ mới ngay chợ Bã Bầu - 1,5TR/THÁNG",1500000,2022-06-02,16.0,1 Thới Tam Thôn,Xã Thới Tam Thôn,Huyện Hóc Môn
 9169,"Cho thuê phòng trọ 120/4H Ấp Tam Đông, Thới Tam Thôn, Hóc Môn-Giá thuê: 800k/tháng",800000,2022-05-21,9.0,120/4H Ấp Tam Đông Đường Tam Đông,Xã Thới Tam Thôn,Huyện Hóc Môn
-9172,"Phòng trọ an ninh khúc Tô Ký Nguyễn Ảnh Thủ, Q.12, gần dạy nghề Minh Đan giáp Gò Vấp, Tân Bình",-1000000,2017-03-28,20.0,An Sương,Xã Trung Chánh,Huyện Hóc Môn
 9173,"Phòng trọ mới sạch đẹp trung tâm q12, Hóc Môn",1500000,2020-09-09,15.0,Đường Song Hành,Xã Trung Chánh,Huyện Hóc Môn
 9176,"Phòng cho thuê cao cấp, tiện nghi",3500000,2019-09-25,15.0,43 hem binh minh Đường Nguyễn Ảnh Thủ,Xã Trung Chánh,Huyện Hóc Môn
 9177,"Có 2 phòng trọ cần cho thuê, nhà vệ sinh riêng, phòng rộng rãi, sạch sẽ",2000000,2020-05-14,16.0,177 Đường Tô Ký,Xã Trung Chánh,Huyện Hóc Môn
@@ -8867,7 +8805,6 @@ id,title,price,published,acreage,street,ward,district
 9410,Phòng Quận 11 cho nữ thuê. Giá 1tr5-2tr (20m2-25m2),2000000,2016-02-29,25.0,190/89 Đường xóm Đất,Phường 10,Quận 11
 9411,"PHÒNG CHO NỮ THUÊ - ƯU TIÊN 1 NGƯỜI CÔNG CHỨC - SINH VIÊN, MÁY LẠNH, FREE INTERNET, SẠCH SẼ, THOÁNG MÁT, ÁNH SÁNG TẬN PHÒNG",2000000,2017-08-14,20.0,565/34/8 Bình Thới,Phường 10,Quận 11
 9413,"Q11 cho thuê phòng trọ mới xây, sạch, thoáng, có nhà vệ sinh riêng",1700000,2016-07-21,10.0,Lạc Long Quân,Phường 10,Quận 11
-9416,Phòng cho thuê đầy đủ tiện nghi quận 11,-1000000,2017-04-21,25.0,262/20 Lạc Long Quân,Phường 10,Quận 11
 9417,"Q.11 cho nữ thuê phòng trọ, thoáng mát sạch sẽ, an ninh, từ 1tr5->2,2tr",1500000,2017-09-07,8.0,Đường Lạc Long Quân,Phường 10,Quận 11
 9418,PHÒNG TRỌ MẶT TIỀN ĐƯỜNG - ĐẦY ĐỦ TIỆN NGHI - GIÁ RẺ - QUẬN 11,4000000,2018-04-17,30.0,Đường Lạc Long Quân,Phường 10,Quận 11
 9419,CHO THUÊ PHÒNG GẦN ĐẦM SEN (24M),3000000,2017-12-19,24.0,Đường Ông Bích Khiêm,Phường 10,Quận 11
